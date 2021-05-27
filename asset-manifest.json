@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Prod_CourseUA/static/css/main.5d967528.chunk.css",
+    "main.js": "/Prod_CourseUA/static/js/main.9cd3bf61.chunk.js",
+    "main.js.map": "/Prod_CourseUA/static/js/main.9cd3bf61.chunk.js.map",
+    "runtime-main.js": "/Prod_CourseUA/static/js/runtime-main.0e48ed2e.js",
+    "runtime-main.js.map": "/Prod_CourseUA/static/js/runtime-main.0e48ed2e.js.map",
+    "static/js/2.275ce44b.chunk.js": "/Prod_CourseUA/static/js/2.275ce44b.chunk.js",
+    "static/js/2.275ce44b.chunk.js.map": "/Prod_CourseUA/static/js/2.275ce44b.chunk.js.map",
+    "index.html": "/Prod_CourseUA/index.html",
+    "static/css/main.5d967528.chunk.css.map": "/Prod_CourseUA/static/css/main.5d967528.chunk.css.map",
+    "static/js/2.275ce44b.chunk.js.LICENSE.txt": "/Prod_CourseUA/static/js/2.275ce44b.chunk.js.LICENSE.txt",
+    "static/media/images.d37ffec4.svg": "/Prod_CourseUA/static/media/images.d37ffec4.svg",
+    "static/media/shopping-bag.cfde1dec.svg": "/Prod_CourseUA/static/media/shopping-bag.cfde1dec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e48ed2e.js",
+    "static/js/2.275ce44b.chunk.js",
+    "static/css/main.5d967528.chunk.css",
+    "static/js/main.9cd3bf61.chunk.js"
+  ]
+}
